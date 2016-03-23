@@ -1,7 +1,5 @@
-Intro
-=====
-
-[![Build Status](https://travis-ci.org/liuliu/ccv.png?branch=unstable)](https://travis-ci.org/liuliu/ccv)
+计算机视觉·图像处理
+(https://travis-ci.org/liuliu/ccv)
 
 Around 2010, when Lian and I was working on our gesture recognition demo, out
 of the frustration to abstract redundant image preprocessing operations into a
